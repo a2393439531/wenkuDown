@@ -2,7 +2,7 @@
     <soft>
         <name>wenkudown</name>
         <version>1.0</version>
-        <downurl>http://www.xcxzq.com/soft/wenkuDown.rar</downurl>
+        <downurl>https://github.com/bigsinger/wenkuDown/trunk/release</downurl>
         <help>https://github.com/bigsinger/wenkuDown</help>
         <news>免费下载百度文库</news>
     </soft>
