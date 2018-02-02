@@ -1,0 +1,9 @@
+<data>
+    <soft>
+        <name>wenkudown</name>
+        <version>1.0</version>
+        <downurl>http://www.xcxzq.com/soft/wenkuDown.rar</downurl>
+        <help>https://github.com/bigsinger/wenkuDown</help>
+        <news>免费下载百度文库</news>
+    </soft>
+</data>
