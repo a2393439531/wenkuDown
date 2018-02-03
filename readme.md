@@ -9,7 +9,9 @@
 
 ## 运行软件
 运行wenkudown.exe，输入文档的网址，例如：http://wenku.baidu.com/view/9a2feb165f0e7cd18425363a.html 点击“开始下载”。
+
 ![image](./images/1.png)
+
 下载中会显示下载的进度，下载完成后会生成一个PDF文件，以及若干SWF文件（Flash动画文件），PDF为图片格式的文档以供阅读。
 
 ![image](./images/2.png)
